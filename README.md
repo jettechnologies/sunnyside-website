@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jettechnologies/sunnyside-website)
-- Live Site URL: [Add live site URL here](https://sunnyside-marketing-website.netlify.app/)
+- Solution URL: [Solution link](https://github.com/jettechnologies/sunnyside-website)
+- Live Site URL: [Live site link](https://sunnyside-marketing-website.netlify.app/)
 
 ## My process
 
